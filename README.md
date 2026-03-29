@@ -90,7 +90,7 @@ This dashboard enables:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](images/Dashboard_preview.png)
 
 ---
 
